@@ -8,7 +8,8 @@ Wafer defect image dataset with 6 classes:
 0, 1, 2, 3, 4, good  
 Organized into Train, Validation, and Test folders.
 
-> Note: Due to GitHub file size limits, the dataset zip is provided separately in the hackathon submission portal.
+> Note: Due to GitHub file size limits, the dataset zip is provided in the drive url below.
+> https://drive.google.com/file/d/1tRBXItO3zI3yyCINA6qjO6Pp98bTWFdY/view?usp=sharing
 
 ## Model
 - Architecture: MobileNetV2 (Transfer Learning)
